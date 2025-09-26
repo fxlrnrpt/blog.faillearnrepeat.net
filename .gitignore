@@ -75,3 +75,5 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+
+go.sum
