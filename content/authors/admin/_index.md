@@ -6,29 +6,29 @@ title: Fail. Learn. Repeat.
 superuser: true
 
 # Role/position/tagline
-role: Fuckups and revelations in tech & life
+role: Fuckups and revelations in tech and life
 
 # Short bio (displayed in user profile at end of posts)
-bio: By Andrey Goncharov. AI research padawan, coding monkey, rock star wannabe.
+bio: By Andrey Goncharov. AI research padawan & rock star wannabe. Proudly failing at both.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:andrey@faillearnrepeat.net'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/BuildLore
+    url: https://x.com/fxlrnrpt
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/fxlrnrpt
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/faillearnrepeat/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/resume.pdf
+    url: https://faillearnrepeat.net/cv
     label: Download my resume
   - icon: rss
-    url: ./post/index.xml
+    url: ./index.xml
     label: Subscribe to my blog via RSS feed
 
 # Highlight the author in author lists? (true/false)
@@ -39,5 +39,5 @@ website: ""
 ---
 
 Hello, ~~darkness my old friend~~ 👋      
-My name is Andrey. AI research padawan, coding monkey, [rock star wannabe](https://notsoalive.faillearnrepeat.net/).     
-Love building stuff, overthinking the incomprehensible, playing with barbells and kettlebells, exploring the magic of sound.
+My name is Andrey. AI research padawan & [rock star wannabe](https://notsoalive.faillearnrepeat.net/). Proudly failing at both.     
+Love building stuff, exploring the magic of sound, overthinking the incomprehensible, playing with barbells and kettlebells.    

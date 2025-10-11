@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "Creator's Blog (Hugo Theme)" # Website name
-baseURL: 'https://example.com/' # Website URL
+title: "Fail. Learn. Repeat." # Website name
+baseURL: "https://faillearnrepeat.net/" # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -20,9 +20,9 @@ cascade:
     hide_date: false
     show_date_updated: true
     reading_time: true
-    commentable: true
     show_related: true
     share: true
+    profile: false
     # Just use Breadcrumb for navigation on blog post pages?
     show_breadcrumb: false
     header:
