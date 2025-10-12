@@ -14,22 +14,30 @@ bio: By Andrey Goncharov. AI research padawan & rock star wannabe. Proudly faili
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:andrey@faillearnrepeat.net'
-    label: E-mail Me
   - icon: brands/x
     url: https://x.com/fxlrnrpt
   - icon: brands/instagram
     url: https://www.instagram.com/fxlrnrpt
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/faillearnrepeat/
+  - icon: brands/github
+    url: https://github.com/fxlrnrpt
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
+  - icon: hero/envelope
+    url: https://newsletter.faillearnrepeat.net/
+    label: Subscribe to the newsletter
+  - icon: rss
+    url: ./index.xml
+    label: Subscribe to the RSS feed
+  - icon: brands/telegram
+    url: https://t.me/fail_learn_repeat
+    label: Read this blog in Russian
   - icon: academicons/cv
     url: https://faillearnrepeat.net/cv
     label: Download my resume
-  - icon: rss
-    url: ./index.xml
-    label: Subscribe to my blog via RSS feed
+  - icon: at-symbol
+    url: 'mailto:andrey@faillearnrepeat.net'
+    label: E-mail Me
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
