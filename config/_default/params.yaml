@@ -32,7 +32,7 @@ header:
     enable: true
     show_search: true
     show_theme_chooser: true
-    align: "center"
+    align: "left"
 
 # Site footer
 footer:
