@@ -26,6 +26,6 @@ Hello fellow ML geeks, my name is Andrey. Each day, I understand more about how 
 - [Schedule](https://docs.google.com/spreadsheets/d/157L7VW-2M1KcwJoRtzadagpJ7LOpos338oEwj8kp2XQ/edit?usp=sharing)
 - [Calendar](https://calendar.google.com/calendar/u/2?cid=ZTM4ZmMwYTM5MDhmZjkwNjcwY2EyZDRlNmQzYThjODZmM2I2NzZkMzZiNWExNzc4NWY3MTE4NTk3MDJkNWJlYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - [Repo with slides](https://github.com/fxlrnrpt/little_ml_book_club)
-- [Chat invite](https://chat.openai.com/)
+- [Chat invite](https://t.me/+bleQ2wfB4DBjMGZk)
 
 **[Comment on X](https://x.com/fxlrnrpt/status/1978752496722985063)**
