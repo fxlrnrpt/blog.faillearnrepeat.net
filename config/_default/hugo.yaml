@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Fail. Learn. Repeat." # Website name
-baseURL: "https://faillearnrepeat.net/" # Website URL
+baseURL: "https://blog.faillearnrepeat.net/" # Website URL
 
 ############################
 ## PAGE OPTIONS
