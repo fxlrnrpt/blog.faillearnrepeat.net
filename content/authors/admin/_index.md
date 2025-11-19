@@ -47,5 +47,4 @@ website: ""
 ---
 
 Hello, ~~darkness my old friend~~ 👋      
-My name is Andrey. AI research padawan & [rock star wannabe](https://notsoalive.faillearnrepeat.net/). Proudly failing at both.     
-Love building stuff, exploring the magic of sound, overthinking the incomprehensible, playing with barbells and kettlebells.    
+My name is Andrey. Lifelong AI research padawan, engineer at heart. [Rock star wannabe](https://notsoalive.faillearnrepeat.net/). Sharing my failures along the way.
