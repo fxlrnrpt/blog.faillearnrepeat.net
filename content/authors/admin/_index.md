@@ -6,7 +6,7 @@ title: Fail. Learn. Repeat.
 superuser: true
 
 # Role/position/tagline
-role: Fuckups and revelations in tech and life
+role: F#%kups and revelations in tech and life
 
 # Short bio (displayed in user profile at end of posts)
 bio: By Andrey Goncharov. AI research padawan & rock star wannabe. Proudly failing at both.
@@ -46,5 +46,7 @@ highlight_name: false
 website: ""
 ---
 
-Hello, ~~darkness my old friend~~ 👋      
-My name is Andrey. Lifelong AI research padawan, engineer at heart. [Rock star wannabe](https://notsoalive.faillearnrepeat.net/). Sharing my failures along the way.
+Hello, ~~darkness my old friend~~ 👋    
+My name is Andrey.    
+Lifelong AI research padawan, engineer at heart. [Rock star wannabe](https://notsoalive.faillearnrepeat.net/).    
+Sharing my failures along the way.
