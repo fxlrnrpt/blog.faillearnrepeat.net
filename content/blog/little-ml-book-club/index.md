@@ -5,7 +5,7 @@ date: 2025-10-16
 authors:
   - admin
 tags:
-  - unfuckup
+  - unf_ckup
 ---
 
 **We are reading "[Ultra-scale playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)". Together!**     

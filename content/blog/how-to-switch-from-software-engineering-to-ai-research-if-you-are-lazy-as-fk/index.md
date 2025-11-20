@@ -5,7 +5,7 @@ date: 2023-05-25
 authors:
   - admin
 tags:
-  - fuckup
+  - f_ckup
   - life revelation
 ---
 

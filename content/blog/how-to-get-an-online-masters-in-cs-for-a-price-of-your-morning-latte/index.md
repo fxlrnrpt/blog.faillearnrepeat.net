@@ -5,7 +5,7 @@ date: 2022-01-22
 authors:
   - admin
 tags:
-  - unfuckup
+  - unf_ckup
 ---
 
 I'll tell you:

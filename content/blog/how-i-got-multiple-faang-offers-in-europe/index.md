@@ -5,7 +5,7 @@ date: 2021-08-30
 authors:
   - admin
 tags:
-  - unfuckup
+  - unf_ckup
 ---
 
 Yet another story of how an ordinary guy from the middle of nowhere in Russia managed to get multiple FAANG offers. This time, in Europe. 

@@ -4,7 +4,7 @@ date: 2025-02-12
 authors:
   - admin
 tags:
-  - fuckup
+  - f_ckup
 ---
 
 [Anthropic](https://www.anthropic.com/) – those dudes behind [Claude](https://claude.ai/). It’s an alternative to OpenAI’s ChatGPT, backed by some seriously massive investments from Amazon. Rumor has it they’ve got a model even more powerful than OpenAI’s o3, but they’re so obsessed with safety (which is a great thing!) that they still keep it private.

@@ -5,7 +5,7 @@ date: 2022-03-21
 authors:
   - admin
 tags:
-  - unfuckup
+  - unf_ckup
   - expat revelation
 ---
 
