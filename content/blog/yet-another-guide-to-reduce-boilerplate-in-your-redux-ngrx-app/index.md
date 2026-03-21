@@ -4,9 +4,6 @@ summary: Several ways/tips/tricks/ancient black magic rituals to reduce boilerpl
 date: 2019-01-04
 authors:
   - admin
-tags:
-  - tech revelation
-  - web
 ---
 
 ## What are we gonna cover here?

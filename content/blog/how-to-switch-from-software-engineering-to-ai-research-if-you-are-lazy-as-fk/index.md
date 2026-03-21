@@ -4,9 +4,6 @@ summary: For 7 years I happily played with web. For 6 months I was burning out. 
 date: 2023-05-25
 authors:
   - admin
-tags:
-  - f_ckup
-  - life revelation
 ---
 
 For 7 years I happily played with web. For 6 months I was burning out. [Next 2 quarters I tried to reassemble myself, looked for the meaning in life and fantasized how I would switch from SWE to AI on a whim](https://blog.faillearnrepeat.net/how-i-burnt-out-in-faang-but-my-job-was-not-the-problem).

@@ -4,9 +4,6 @@ summary: Once upon a time, there was a boy who loved building websites. He also 
 date: 2023-03-13
 authors:
   - admin
-tags:
-  - f_ckup
-  - life revelation
 ---
 
 Once upon a time, there was a boy who loved building websites. He also enjoyed sharing his findings at conferences. Then he moved from the middle of nowhere to London. Started working in the company of his dreams. 18 months later he collapsed hard, to a point where he wanted to throw his laptop out of a window and roam the mountains of Scotland indefinitely. After 3 more months, he figured it all out and became happy again.

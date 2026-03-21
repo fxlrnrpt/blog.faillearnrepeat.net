@@ -4,8 +4,6 @@ summary: So, you have decided to move your ass someplace else, seeking a better 
 date: 2020-10-26
 authors:
   - admin
-tags:
-  - expat revelation
 image:
   caption: Based on https://www.deviantart.com/gio0989/art/World-map-wallpaper-127690139
 ---

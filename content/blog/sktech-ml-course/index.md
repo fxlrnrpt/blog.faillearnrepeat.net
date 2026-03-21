@@ -3,9 +3,6 @@ title: 𝗢𝗽𝗲𝗻-𝘀𝗼𝘂𝗿𝗰𝗲 𝗠𝗟 𝗵𝗼𝗺𝗲𝘄�
 date: 2026-03-21
 authors:
   - admin
-tags:
-  - unf_ckup
-  - ml
 ---
 
 This year I've been designing homework assignments for an ML course at Skoltech (Russia's answer to MIT/Caltech for science and technology). After bombing more job interviews than I care to count, I think I've finally figured out what I was personally missing during my studies - a deep understanding of a relatively small set of fundamental algorithms. Well, my pain is the next generation's gain!

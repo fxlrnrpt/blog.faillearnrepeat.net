@@ -4,9 +4,6 @@ summary: A tale of how all browsers are attributophobes, with a select few stand
 date: 2017-08-17
 authors:
   - admin
-tags:
-  - tech revelation
-  - web
 ---
 
 A tale of how we thoughtlessly used a boilerplate with a whole arsenal of dependencies for a project, which nobody used in the end, how it haunted us after, when Edge support was requested, and how we heroically resolved what we had broken before. Wait, it's way too long. A tale of how all browsers are attributophobes, with a select few standing out.

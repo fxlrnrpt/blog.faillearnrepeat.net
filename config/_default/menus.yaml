@@ -5,9 +5,6 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Topics
-    url: tags/
-    weight: 20
   - name: Newsletter
     url: https://newsletter.faillearnrepeat.net/
-    weight: 30
+    weight: 20

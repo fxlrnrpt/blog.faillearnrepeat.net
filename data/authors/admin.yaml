@@ -1,19 +1,18 @@
----
-# Display name
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+# name:
+#   display: 吳健雄
+#   given: Shiung Wu
+#   family: Chien
+#   pronunciation: Chien Shiung Wu
+#   pronouns: she/her
+# status:
+#   icon: "☕️"
 title: Fail. Learn. Repeat. 
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: F#%kups and revelations in tech and life
-
-# Short bio (displayed in user profile at end of posts)
 bio: By Andrey Goncharov. AI research padawan. Engineer at heart. Rock star wannabe.
-
-# Social Networking
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
+links:
   - icon: brands/x
     url: https://x.com/fxlrnrpt
   - icon: brands/instagram
@@ -38,15 +37,3 @@ profiles:
   - icon: at-symbol
     url: 'mailto:andrey@faillearnrepeat.net'
     label: E-mail Me
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Author's website URL
-website: ""
----
-
-Hello, ~~darkness my old friend~~ 👋    
-My name is Andrey.    
-AI research padawan. Engineer at heart. [Rock star wannabe](https://notsoalive.faillearnrepeat.net/).    
-Sharing my failures along the way.

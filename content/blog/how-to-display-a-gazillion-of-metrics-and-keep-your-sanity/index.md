@@ -4,10 +4,6 @@ summary: Large scale equals distributed. Distributed equals inevitable complexit
 date: 2020-08-26
 authors:
   - admin
-tags:
-  - tech revelation
-  - web
-  - analytics
 ---
 
 Large scale equals distributed. Distributed equals inevitable complexity. Complexity at runtime equals extensive monitoring. At Hazelcast, doing distributed systems well is our bread and butter. It means we have no choice but to be huge fans of collecting all kinds of metrics to stay on guard of the data our users trust us with.    

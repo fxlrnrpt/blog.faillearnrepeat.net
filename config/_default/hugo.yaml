@@ -20,6 +20,7 @@ cascade:
     hide_date: false
     show_date_updated: true
     reading_time: true
+    commentable: false
     show_related: true
     share: true
     profile: false
@@ -51,7 +52,7 @@ pagination:
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+ignoreFiles: [".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]

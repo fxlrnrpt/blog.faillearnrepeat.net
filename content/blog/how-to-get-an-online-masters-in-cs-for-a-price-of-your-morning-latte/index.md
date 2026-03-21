@@ -4,8 +4,6 @@ summary: How I got into Georgia Tech's Online Master of Science in Computer Scie
 date: 2022-01-22
 authors:
   - admin
-tags:
-  - unf_ckup
 ---
 
 I'll tell you:

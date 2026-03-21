@@ -4,9 +4,6 @@ summary: Evolution of reducers in my Redux/NGRX apps that took place over the la
 date: 2019-02-10
 authors:
   - admin
-tags:
-  - tech revelation
-  - web
 ---
 
 ## What are we gonna cover here?

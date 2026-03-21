@@ -1,11 +1,10 @@
 ---
 title: 'Home'
-date: 2023-10-24
 type: landing
 sections:
   - block: resume-biography
     content:
-      # The user's folder name in content/authors/
+      # Author slug (data/authors/<slug>.yaml)
       username: admin
     design:
       spacing:
@@ -22,6 +21,7 @@ sections:
         folders:
           - blog
     design:
+      view: compact
       spacing:
         padding: ['3rem', 0, '6rem', 0]
 ---
