@@ -9,9 +9,9 @@ is_owner: true
 #   pronouns: she/her
 # status:
 #   icon: "☕️"
-title: Fail. Learn. Repeat. 
+title: Fail. Learn. Repeat.
 role: F#%kups and revelations in tech and life
-bio: By Andrey Goncharov. AI research padawan. Engineer at heart. Rock star wannabe.
+bio: By Andrey Goncharov. Gradient descent believer. Engineer at heart. Rock star wannabe.
 links:
   - icon: brands/x
     url: https://x.com/fxlrnrpt
@@ -35,5 +35,5 @@ links:
     url: https://faillearnrepeat.net/cv
     label: Download my resume
   - icon: at-symbol
-    url: 'mailto:andrey@faillearnrepeat.net'
+    url: "mailto:andrey@faillearnrepeat.net"
     label: E-mail Me
