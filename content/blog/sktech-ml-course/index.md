@@ -1,8 +1,6 @@
 ---
-title: 𝗢𝗽𝗲𝗻-𝘀𝗼𝘂𝗿𝗰𝗲 𝗠𝗟 𝗵𝗼𝗺𝗲𝘄𝗼𝗿𝗸𝘀 𝘄𝗶𝘁𝗵 𝗮𝘂𝘁𝗼-𝘁𝗲𝘀𝘁𝘀 - 𝗳𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 𝗳𝗿𝗼𝗺 𝗳𝗶𝗿𝘀𝘁 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲𝘀
+title: Open-source ML homeworks with auto-tests - fundamental agorithms from first principles
 date: 2026-03-21
-authors:
-  - admin
 ---
 
 This year I've been designing homework assignments for an ML course at Skoltech (Russia's answer to MIT/Caltech for science and technology). After bombing more job interviews than I care to count, I think I've finally figured out what I was personally missing during my studies - a deep understanding of a relatively small set of fundamental algorithms. Well, my pain is the next generation's gain!

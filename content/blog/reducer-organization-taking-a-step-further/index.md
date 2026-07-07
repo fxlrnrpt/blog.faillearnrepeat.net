@@ -1,9 +1,7 @@
 ---
 title: Reducer organization - taking a step further
-summary: Evolution of reducers in my Redux/NGRX apps that took place over the last two years
+description: Evolution of reducers in my Redux/NGRX apps that took place over the last two years
 date: 2019-02-10
-authors:
-  - admin
 ---
 
 ## What are we gonna cover here?

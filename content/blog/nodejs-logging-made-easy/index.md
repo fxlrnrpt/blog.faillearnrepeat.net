@@ -1,9 +1,7 @@
 ---
 title: NodeJS logging made easy
-summary: How many times did you write `logger.info('ServiceName.methodName.')` and `logger.info('ServiceName.methodName -> done.')` for each and every method of your service you wanted to log? Now it is automated!
+description: How many times did you write `logger.info('ServiceName.methodName.')` and `logger.info('ServiceName.methodName -> done.')` for each and every method of your service you wanted to log? Now it is automated!
 date: 2019-04-07
-authors:
-  - admin
 ---
 
 How many times did you write `logger.info('ServiceName.methodName.')` and `logger.info('ServiceName.methodName -> done.')` for each and every method of your service you wanted to log? Would you like it to be automated and has the same constant signature across your whole app? If that's so, we're very much alike, we have suffered the same pain too many times, and now we could finally try to resolve it. Together. Ladies and gentlemen, let me introduce... [class-logger](https://github.com/fxlrnrpt/class-logger)!

@@ -1,9 +1,7 @@
 ---
 title: How to switch from software engineering to AI research if you are lazy as f**k
-summary: For 7 years I happily played with web. For 6 months I was burning out. Next 2 quarters I tried to reassemble myself, looked for the meaning in life and fantasized how I would switch from SWE to AI on a whim.After 3 more months, I have made barely any progress. At this pace, my first proper research publication is going to be written by my child in 30-ish years, and not me. Something has got to change. In this post, I am going to share my old plan that miserably failed, self-reflect on what went wrong, and publish my new awesome plan that is destined to succeed!
+description: For 7 years I happily played with web. For 6 months I was burning out. Next 2 quarters I tried to reassemble myself, looked for the meaning in life and fantasized how I would switch from SWE to AI on a whim.After 3 more months, I have made barely any progress. At this pace, my first proper research publication is going to be written by my child in 30-ish years, and not me. Something has got to change. In this post, I am going to share my old plan that miserably failed, self-reflect on what went wrong, and publish my new awesome plan that is destined to succeed!
 date: 2023-05-25
-authors:
-  - admin
 ---
 
 For 7 years I happily played with web. For 6 months I was burning out. [Next 2 quarters I tried to reassemble myself, looked for the meaning in life and fantasized how I would switch from SWE to AI on a whim](https://blog.faillearnrepeat.net/how-i-burnt-out-in-faang-but-my-job-was-not-the-problem).

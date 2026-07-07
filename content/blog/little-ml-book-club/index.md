@@ -1,9 +1,7 @@
 ---
 title: Little ML book club
-summary: We are reading "Ultra-scale playbook". Together!
+description: We are reading "Ultra-scale playbook". Together!
 date: 2025-10-16
-authors:
-  - admin
 ---
 
 **We are reading "[Ultra-scale playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)". Together!**     

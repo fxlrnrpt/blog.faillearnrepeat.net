@@ -1,38 +1,57 @@
-# [Creator's Blog: Hugo Theme](https://github.com/HugoBlox/hugo-theme-data-science-blog)
+# Fail. Learn. Repeat.
 
-[![Screenshot](./.github/preview.png)](https://hugoblox.com/templates/)
+Source for [blog.faillearnrepeat.net](https://blog.faillearnrepeat.net/) — a
+[Hugo](https://gohugo.io/) blog using the
+[hugo-bearblog](https://github.com/janraasch/hugo-bearblog) theme.
 
-The **Creator's Blog** Hugo Theme empowers you to easily create your own _personal blog_ or _build a business around your content_.
+## Develop
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, block-based website builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+The theme is a git submodule, so clone with submodules (or init them after cloning):
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/MakeOwnable?label=Follow%20on%20Twitter)](https://x.com/MakeOwnable)
+```bash
+git clone --recurse-submodules <repo-url>
+# or, in an existing clone:
+git submodule update --init
+```
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+Run a local preview (Google Analytics is disabled in the development environment):
 
-[Check out the latest demo](https://hugo-blog-theme.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://hugoblox.com/creators/).
+```bash
+hugo server
+```
 
-The integrated [**Hugo Blox**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+Production build (what Netlify runs):
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **HugoBlox Kit community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@MakeOwnable](https://x.com/MakeOwnable)  [#MadeWithHugoBlox](https://x.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/kit/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/kit/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/) and [Release Notes](https://github.com/HugoBlox/kit/releases)
+```bash
+hugo --gc --minify
+```
 
-## We ask you, humbly, to support this open source movement
+## Structure
 
-Today we ask you to defend the open source independence of the HugoBlox Kit and themes 🐧
+- `hugo.yaml` — site config (theme, menu, Google Analytics, params).
+- `content/_index.md` — home page intro; the post list is generated below it.
+- `content/blog/<slug>/index.md` — one page bundle per post (`title`, `date`,
+  `description`); post URLs are `/blog/<slug>/`.
+- `layouts/` — overrides: `index.html` (home = intro + posts grouped by year),
+  `partials/custom_head.html` (Analytics, production only),
+  `partials/footer.html` (CC BY-NC-SA + RSS).
+- `netlify.toml` — Hugo-only build.
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+## Writing a post
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://hugoblox.com/sponsors/)
+Create `content/blog/my-post/index.md`:
 
-## Demo credits
+```yaml
+---
+title: My post title
+date: 2026-07-07
+description: One-line summary used for the meta description.
+---
+```
 
-- [Unsplash](https://unsplash.com/) images
+Put images alongside it in the same folder and reference them by filename.
+
+## License
+
+Content is licensed under
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

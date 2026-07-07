@@ -1,0 +1,27 @@
+baseURL: "https://blog.faillearnrepeat.net/"
+theme: "hugo-bearblog"
+title: "Fail. Learn. Repeat."
+author: "Andrey Goncharov"
+languageCode: "en-us"
+enableRobotsTXT: true
+enableEmoji: true
+
+# No `permalinks:` block on purpose — preserves existing /blog/<slug>/ post URLs.
+disableKinds: ["taxonomy", "term"] # no tags; skip empty taxonomy pages
+
+services:
+  googleAnalytics:
+    ID: "G-4B4QT8F1PR" # GA4 — carried over from the old HugoBlox config
+
+params:
+  description: "F#%kups and revelations in tech and life"
+  dateFormat: "Jan 02, 2006" # used by the home page and /blog/ list
+  favicon: "images/favicon.png"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # allow inline HTML in posts (e.g. <s>, <sub>, demos) — matches prior HugoBlox behavior
+  highlight:
+    noClasses: true
+    style: friendly

@@ -1,4 +1,3 @@
 ---
-title: 'Blog'
-view: compact
+title: Blog
 ---

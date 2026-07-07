@@ -1,0 +1,8 @@
+<hr/>
+<p>
+  &copy; {{ now.Format "2006" }} Andrey Goncharov &middot;
+  Licensed under
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">CC BY-NC-SA 4.0</a> &middot;
+  <a href="{{ "index.xml" | relURL }}">RSS</a>
+  {{ if not (.Param "hideMadeWithLine") }}<br/>Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a>{{ end }}
+</p>

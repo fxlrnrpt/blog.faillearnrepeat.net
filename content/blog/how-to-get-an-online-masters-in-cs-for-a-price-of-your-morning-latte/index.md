@@ -1,9 +1,7 @@
 ---
 title: How to get an online Master's in CS for a price of your morning latte
-summary: How I got into Georgia Tech's Online Master of Science in Computer Science (OMSCS) program while working and living in Russia; requirements to enroll for foreign students; How much it costs; my experience with the courses; why I am still pursuing the degree even after I started working at Facebook.
+description: How I got into Georgia Tech's Online Master of Science in Computer Science (OMSCS) program while working and living in Russia; requirements to enroll for foreign students; How much it costs; my experience with the courses; why I am still pursuing the degree even after I started working at Facebook.
 date: 2022-01-22
-authors:
-  - admin
 ---
 
 I'll tell you:

@@ -1,9 +1,7 @@
 ---
 title: node-config made type-safe
-summary: node-config has been serving the Node.js community as pretty much the default config solution for many years. Its simplistic, yet powerful design helped it to spread like a virus across multiple JS libraries. Yet those very design choices don't always play nice with new strictly-typed kids on the block. Like TypeScript. How could we keep using our favorite config tool and stay on the type-safe side of things?
+description: node-config has been serving the Node.js community as pretty much the default config solution for many years. Its simplistic, yet powerful design helped it to spread like a virus across multiple JS libraries. Yet those very design choices don't always play nice with new strictly-typed kids on the block. Like TypeScript. How could we keep using our favorite config tool and stay on the type-safe side of things?
 date: 2019-04-12
-authors:
-  - admin
 ---
 
 [node-config](https://github.com/lorenwest/node-config) has been serving the Node.js community as pretty much the default config solution for many years. Its simplistic, yet powerful design helped it to spread like a virus across multiple JS libraries. Yet those very design choices don't always play nice with new strictly-typed kids on the block. Like TypeScript. How could we keep using our favorite config tool and stay on the type-safe side of things?

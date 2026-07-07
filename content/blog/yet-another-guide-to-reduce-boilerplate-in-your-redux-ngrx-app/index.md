@@ -1,9 +1,7 @@
 ---
 title: Yet another guide to reduce boilerplate in your Redux (NGRX) app
-summary: Several ways/tips/tricks/ancient black magic rituals to reduce boilerplate in our overwhelmed-with-boilerplate Redux (and NGRX!) apps
+description: Several ways/tips/tricks/ancient black magic rituals to reduce boilerplate in our overwhelmed-with-boilerplate Redux (and NGRX!) apps
 date: 2019-01-04
-authors:
-  - admin
 ---
 
 ## What are we gonna cover here?

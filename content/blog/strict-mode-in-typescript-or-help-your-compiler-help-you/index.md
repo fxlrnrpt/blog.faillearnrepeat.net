@@ -1,9 +1,7 @@
 ---
 title: Strict mode in TypeScript || help your compiler help you
-summary: Recently, at Hazelcast we have migrated our Management Center to TypeScript. Not just TypeScript, but the strictest TypeScript there is. If you are interested in why we decided to enable all the strict flags and benefits they provide, welcome to this post.
+description: Recently, at Hazelcast we have migrated our Management Center to TypeScript. Not just TypeScript, but the strictest TypeScript there is. If you are interested in why we decided to enable all the strict flags and benefits they provide, welcome to this post.
 date: 2021-07-28
-authors:
-  - admin
 ---
 
 Recently, at Hazelcast we have migrated our Management Center to TypeScript. Not just TypeScript, but the strictest TypeScript there is. If you are interested in why we decided to enable all the strict flags and benefits they provide, welcome to this post.

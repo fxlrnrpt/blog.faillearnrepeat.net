@@ -1,9 +1,7 @@
 ---
 title: NodeJS logging made right
-summary: Deep dive into trace IDs for NodeJS logs
+description: Deep dive into trace IDs for NodeJS logs
 date: 2019-02-26
-authors:
-  - admin
 ---
 
 What's nagging you the most when you think about logging in NodeJS? If you ask me I'm gonna say lack of of industry standards for creating trace IDs. Within this article we'll overview how we can create these trace IDs (meaning we're going to briefly examine how continuation local storage a.k.a [CLS](https://github.com/jeff-lewis/cls-hooked) works) and dig deep into how we can utilize [Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy) to make it work with ANY logger.

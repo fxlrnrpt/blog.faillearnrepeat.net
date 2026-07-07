@@ -1,9 +1,7 @@
 ---
 title: React - Lifting state up is killing your app
-summary: Have you heard about "lifting state up"? I guess you have and that's the exact reason why you're here. How could it be possible that one of the 12 main concepts listed in React official documentation might lead to poor performance? Within this article, we'll consider a situation when it's indeed the case.
+description: Have you heard about "lifting state up"? I guess you have and that's the exact reason why you're here. How could it be possible that one of the 12 main concepts listed in React official documentation might lead to poor performance? Within this article, we'll consider a situation when it's indeed the case.
 date: 2019-09-07
-authors:
-  - admin
 ---
 
 Have you heard about "lifting state up"? I guess you have and that's the exact reason why you're here. How could it be possible that [one of the 12 main concepts listed in React official documentation](https://reactjs.org/docs/lifting-state-up.html) might lead to poor performance? Within this article, we'll consider a situation when it's indeed the case.

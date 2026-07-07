@@ -1,9 +1,7 @@
 ---
 title: How I got multiple FAANG offers in Europe
-summary: Yet another story of how an ordinary guy from the middle of nowhere in Russia managed to get multiple FAANG offers. This time, in Europe. I'll tell you a little about my background, share several tips and tricks that helped me to land the interviews and prepare for them, talk about the interviewing process, reveal my final choice.
+description: Yet another story of how an ordinary guy from the middle of nowhere in Russia managed to get multiple FAANG offers. This time, in Europe. I'll tell you a little about my background, share several tips and tricks that helped me to land the interviews and prepare for them, talk about the interviewing process, reveal my final choice.
 date: 2021-08-30
-authors:
-  - admin
 ---
 
 Yet another story of how an ordinary guy from the middle of nowhere in Russia managed to get multiple FAANG offers. This time, in Europe. 

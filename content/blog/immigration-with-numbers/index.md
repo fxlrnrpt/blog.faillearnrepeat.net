@@ -1,9 +1,7 @@
 ---
 title: Immigration in IT - Choosing your new home objectively
-summary: So, you have decided to move your ass someplace else, seeking a better life. The whole world is at your feet, but "the whole world" is not a specific place where you can be. You have to choose, if not a city, at least a country. Nowadays, there are plenty of places where your career can skyrocket, and you can have a great quality of life. Of course, it depends on your definition of the "quality of life". In this article, we will try to set subjective factors that drive your decision aside. We will look at the numbers in different areas to rate and, later on, filter our potential relocation prospects for the next X years.
+description: So, you have decided to move your ass someplace else, seeking a better life. The whole world is at your feet, but "the whole world" is not a specific place where you can be. You have to choose, if not a city, at least a country. Nowadays, there are plenty of places where your career can skyrocket, and you can have a great quality of life. Of course, it depends on your definition of the "quality of life". In this article, we will try to set subjective factors that drive your decision aside. We will look at the numbers in different areas to rate and, later on, filter our potential relocation prospects for the next X years.
 date: 2020-10-26
-authors:
-  - admin
 image:
   caption: Based on https://www.deviantart.com/gio0989/art/World-map-wallpaper-127690139
 ---

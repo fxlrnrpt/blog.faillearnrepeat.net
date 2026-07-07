@@ -1,9 +1,7 @@
 ---
 title: Getting a talent visa in the UK for mortals
-summary: Did you always think various "talent" immigration programs imply a Nobel prize? I am going to tell you how a regular software engineer from the middle of nowhere could get a talent visa in the UK based on my personal experience.
+description: Did you always think various "talent" immigration programs imply a Nobel prize? I am going to tell you how a regular software engineer from the middle of nowhere could get a talent visa in the UK based on my personal experience.
 date: 2022-03-21
-authors:
-  - admin
 ---
 
 Did you always think various "talent" immigration programs imply a Nobel prize? I am going to tell you how a regular software engineer from the middle of nowhere could get a talent visa in the UK based on my personal experience.

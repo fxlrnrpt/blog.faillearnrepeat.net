@@ -1,8 +1,6 @@
 ---
 title: ML misfits club or what to do when nobody wants you
 date: 2025-06-24
-authors:
-  - admin
 ---
 
 **TL;DR** This summer I did not get into any of a bunch of research programs and schools. After crying into my pillow, I remembered someone smart saying that knowledge isn't something you're *given*; you have to *take* it. That seemed like a bright idea, so I am starting my own summer-ish school / research-padawan community <s>with blackjack and hookers</s>. An [educational-research collective for the misfits](http://mlmisfits.org) ([upd: backup link](https://github.com/fxlrnrpt/ml_misfits/)). Expect deadlines, homework, and most importantly other equally obsessed people right beside you.

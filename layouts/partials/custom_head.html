@@ -1,0 +1,3 @@
+{{/* Google Analytics (GA4). Gated to production so local `hugo server` (development
+     environment) does not pollute analytics; `hugo` builds default to production. */}}
+{{ if hugo.IsProduction }}{{ template "_internal/google_analytics.html" . }}{{ end }}
