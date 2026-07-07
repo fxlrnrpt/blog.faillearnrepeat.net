@@ -15,7 +15,7 @@ Once I'd settled on how to frame the problems, the remaining question was how to
 **𝗧𝗵𝗲 𝗿𝗲𝘀𝘂𝗹𝘁:** a set of classic machine learning exercises with automated test-based grading. Which means anyone can try these assignments and feel just a tiiiiiny bit like a Skoltech student.
 
 
-The course has already finished, and I am free to **𝗽𝘂𝗯𝗹𝗶𝘀𝗵 𝘁𝗵𝗲 𝗰𝗼𝗻𝘁𝗲𝗻𝘁** - https://lnkd.in/e3RV3Xq6
+The course has already finished, and I am free to **𝗽𝘂𝗯𝗹𝗶𝘀𝗵 𝘁𝗵𝗲 𝗰𝗼𝗻𝘁𝗲𝗻𝘁** - https://github.com/fxlrnrpt/sktech_ml_homeworks_2026
 
 
 **𝗧𝗵𝗲𝗿𝗲 𝘆𝗼𝘂 𝘄𝗶𝗹𝗹 𝗳𝗶𝗻𝗱:**
