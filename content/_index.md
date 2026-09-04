@@ -11,4 +11,4 @@ Fun facts: lived in a recording studio in a former bomb shelter (even [recorded 
 
 Living in: London ([UK Global Talent alumnus](https://github.com/fxlrnrpt/uk-global-talent-visa-guide)).
 
-[LinkedIn](https://www.linkedin.com/in/faillearnrepeat/). [X](https://x.com/fxlrnrpt). [Newsletter](https://newsletter.faillearnrepeat.net/). [CV](https://faillearnrepeat.net/cv). [Email](mailto:andrey@faillearnrepeat.net).
+[LinkedIn](https://www.linkedin.com/in/faillearnrepeat/). [X](https://x.com/fxlrnrpt). [Newsletter](https://newsletter.faillearnrepeat.net/). [CV](/cv). [Email](mailto:andrey@faillearnrepeat.net).

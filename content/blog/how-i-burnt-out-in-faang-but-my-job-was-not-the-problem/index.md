@@ -14,7 +14,7 @@ Once upon a time, there was a boy who loved building websites. He also enjoyed s
 
 TLDR; Lived in the [middle of nowhere](https://en.wikipedia.org/wiki/Voronezh). Wanted to relocate. Sent out hundreds of applications. Solved about 100 Leetcode challenges. Read a book on system design. Passed 9 interviews. Got 4 offers. Accepted 1. Moved to London.
 
-> Read about the whole journey [here](https://blog.faillearnrepeat.net/how-i-got-multiple-faang-offers-in-europe)
+> Read about the whole journey [here](/blog/how-i-got-multiple-faang-offers-in-europe/)
 
 ## Peak of inflated expectations
 

@@ -1,6 +1,6 @@
 # Fail. Learn. Repeat.
 
-Source for [blog.faillearnrepeat.net](https://blog.faillearnrepeat.net/) — a
+Source for [faillearnrepeat.net](https://faillearnrepeat.net/) — a
 [Hugo](https://gohugo.io/) blog using the
 [hugo-bearblog](https://github.com/janraasch/hugo-bearblog) theme.
 
@@ -20,11 +20,17 @@ Run a local preview (Google Analytics is disabled in the development environment
 hugo server
 ```
 
-Production build (what Netlify runs):
+Production build (what Cloudflare Pages runs):
 
 ```bash
 hugo --gc --minify
 ```
+
+Cloudflare Pages is configured with:
+
+- Build command: `hugo --gc --minify`
+- Build output directory: `public`
+- Environment variable: `HUGO_VERSION=0.156.0`
 
 ## Structure
 
@@ -35,7 +41,7 @@ hugo --gc --minify
 - `layouts/` — overrides: `index.html` (home = intro + posts grouped by year),
   `partials/custom_head.html` (Analytics, production only),
   `partials/footer.html` (CC BY-NC-SA + RSS).
-- `netlify.toml` — Hugo-only build.
+- `static/_redirects` — path redirects applied by Cloudflare Pages.
 
 ## Writing a post
 

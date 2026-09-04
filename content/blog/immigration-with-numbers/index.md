@@ -18,7 +18,7 @@ So, you have decided to move your ass someplace else, seeking a better life. The
 
 💼 Full-stack (web, blockchain, and even a bit of embedded) at software consultancies ([DSR](https://en.dsr-corporation.com/), [DataArt](https://www.dataart.com/))  ➡️  Headed front-end development at [Hazelcast](https://hazelcast.com/)  ➡️  Front-end at [Bricks](https://www.thebricks.com/) (next-gen spreadsheet web app) ➡️  Full-time maintainer of [Flipper](https://fbflipper.com/) at [Meta (ex-Facebook)](https://www.facebook.com/).
 
-📝 I write about tech in my [small blog](https://blog.faillearnrepeat.net/). 
+📝 I write about tech in my [small blog](/).
 
 🎤 Occasionally, I [speak at conferences](https://github.com/fxlrnrpt/talks).
 
@@ -562,4 +562,3 @@ Here is my personal list of finalists:
 [Here is the same list as a filtered view in Google Spreadsheet](https://docs.google.com/spreadsheets/d/1ptwI1So-BxxeGKyoMaIHlFm-AjsxjTXu0tZkkGjqlv0/edit#gid=0&fvid=188422351)
 
 > Check out my [new guide on the Global Talent visa](https://github.com/fxlrnrpt/uk-global-talent-visa-guide) with concrete document examples on Gumroad!
-
