@@ -1,11 +1,26 @@
 {{/* Self-referencing canonical. The theme ships og:url but no rel=canonical, so
-     Google reported "Duplicate without user-selected canonical" for parameterised
-     variants of post URLs (e.g. ?x-host=blog.goncharov.page left over from the
-     blog.goncharov.page -> blog.faillearnrepeat.net move). .Permalink is built from
-     baseURL and never carries a query string, so every variant now points at the
-     clean /blog/<slug>/ URL. */}}
-<link rel="canonical" href="{{ .Permalink }}" />
+Google reported "Duplicate without user-selected canonical" for parameterised
+variants of post URLs (e.g. ?x-host=blog.goncharov.page left over from the
+blog.goncharov.page -> blog.faillearnrepeat.net move). .Permalink is built from
+baseURL and never carries a query string, so every variant now points at the
+clean /blog/<slug
+  >/ URL. */}}
+  <link rel="canonical" href="{{ .Permalink }}" />
 
-{{/* Google Analytics (GA4). Gated to production so local `hugo server` (development
-     environment) does not pollute analytics; `hugo` builds default to production. */}}
-{{ if hugo.IsProduction }}{{ template "_internal/google_analytics.html" . }}{{ end }}
+  {{/* Keep the home-page portrait compact beside the introduction. */}} {{ if
+  .IsHome }}
+  <style>
+    .author-photo {
+      float: right;
+      width: 120px;
+      height: 120px;
+      margin: 0 0 1rem 1.25rem;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+  </style>
+  {{ end }} {{/* Google Analytics (GA4). Gated to production so local `hugo
+  server` (development environment) does not pollute analytics; `hugo` builds
+  default to production. */}} {{ if hugo.IsProduction }}{{ template
+  "_internal/google_analytics.html" . }}{{ end }}
+</slug>
