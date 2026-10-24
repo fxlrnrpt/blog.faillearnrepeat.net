@@ -66,3 +66,5 @@ So where did we land? As of today, I’ve shipped PRAGMA to prod, submitted a pa
 6. Try to get into [one of the research residency programs](https://x.com/fxlrnrpt/status/2007101422353907849).
 7. Mentally prepare to hear "no" over and over and over again. It will be hard. I thought I was ready, but "living through it" and "thinking about it" turned out to be fundamentally different things.
 8. And good luck! You’re going to need it!
+
+> Comment [this post on X](https://x.com/fxlrnrpt/status/2114015428364140702)
